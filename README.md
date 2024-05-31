@@ -8,7 +8,7 @@ Trò chơi điện tử đối kháng là một thể loại trò chơi điện 
   ### 2. Cài đặt Pip
   - sudo apt-get install python3-pip
   ### 3. Tải xuống Game qua Website
-  - https://github.com/nuighe/DoAnMNM
+  - https://github.com/Quuaann/BrawlerOnline
   ### 4. Giải nén
   - cd Downloads
   - unzip brawler_tut-main.zip
@@ -36,19 +36,19 @@ và 2 lựa chọn còn lại:
 - Sau khi chọn bản đồ và nhân vật xong, nhấn Enter để bắt đầu trò chơi.
 ### Giao diện màn hình chọn chế độ:
 Giao diện 
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/online.png)
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/offline.png)
+- ![image](https://github.com/Quuaann/blob/main/image/online.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/offline.png)
   
   Nếu chọn chế đô online thì phải run Server.py trước:
-  - ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/server.png)
+  - ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/server.png)
 ### Giao diện màn hình chọn bản đồ và nhân vật:
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/manhinh.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/manhinh.png)
 ### Giao diện bắt đầu trò chơi:
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/batdau.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/batdau.png)
 ## Thành viên thực hiện dự án
 - Trần Minh Quân
 - Facebook: 
-- Github:
+- Github:https://github.com/Quuaann
 - Gmail: rjck024vipro@gmai.com
 - Lê Hồng Việt
 - Facebook: 
@@ -65,7 +65,7 @@ To install the Fighting Game, first of all your operating system is a Linux oper
    ### 2. Install Pip
    - sudo apt-get install python3-pip
    ### 3. Download Game via Website
-   - https://github.com/nuighe/DoAnMNM
+   - https://github.com/Quuaann/DoAnMNM
    ### 4. Unzip
    - cd Downloads
    - unzip brawler_tut-main.zip
@@ -93,18 +93,18 @@ and the remaining 2 options:
 - After selecting the map and character, press Enter to start the game.
 ### Mode selection screen interface:
 Display
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/online.png)
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/offline.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/online.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/offline.png)
 If you choose online mode, you must run Server.py first:
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/server.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/server.png)
 ### Map and character selection screen interface:
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/manhinh.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/manhinh.png)
 ### Game start interface:
-- ![image](https://github.com/nuighe/DoAnMNM/blob/main/image/batdau.png)
+- ![image](https://github.com/Quuaann/DoAnMNM/blob/main/image/batdau.png)
 ## Project implementation member
 - Tran Minh Quan
 - Facebook:
-- Github:
+- Github:https://github.com/Quuaann
 - Gmail: rjck024vipro@gmai.com
 - Le Hong Viet
 - Facebook:
